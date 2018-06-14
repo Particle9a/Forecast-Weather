@@ -68,4 +68,3 @@ These API give access to weather Data based on their name, for example Current W
 |   5| City | |
 |   6| Weather | |
 |   7| WeatherGetter | |
-=======
