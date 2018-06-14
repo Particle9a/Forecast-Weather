@@ -8,7 +8,7 @@ Muhammad Aufa Helfiandri - 13516008
 
 -------
 
-### OpenWeatherMap API
+## OpenWeatherMap API
 
 API an acronym for *Application Programming Interface* is a collection of instruction and protocol that used to create a software. API is used as a messenger that accepts user request and tell system what to do based on the request. (Sumber  : http://developer.erabelajar.com/api-application-programming-interface/)
 
@@ -18,46 +18,46 @@ These API give access to weather Data based on their name, for example Current W
 
 -------
 
-### Package & Class
+## Package & Class
  Because the project is still in Planning process, the Packages and Class I listed here is still temporary and could be changed as the project is being developed.
 
-#### Main/Default Package
+### Main/Default Package
  Package for Main Class.
 
-###### Main Class
+#### Main Class
  Class to Run the Application
 
-#### Interaction Package
+### Interaction Package
  Package that handle GUI and User Interaction to Java Swing API
 
-###### DataDisplayer Class
+#### DataDisplayer Class
  Class that stores the Data that want to be Displayed
 
-###### Menu Class
+#### Menu Class
  Class that represent on screen menu to interact with user
 
-#### Data Controller Package
+### Data Controller Package
  Package that handle the Data which already received to local memory.
 
-###### CityCollection Class
+#### CityCollection Class
  Class that handle Data of Cities that already gathered by OpenWeatherMapAPI
 
-###### City
+#### City
  Class that represent a City including it's weather Datas
 
-###### Weather 
+#### Weather 
  Class that represent a Weather Data
 
-#### Weather Getter Package
+### Weather Getter Package
  Package that handle interaction with OpenWeatherMap API
 
-###### Weather_Getter
+#### Weather_Getter
  Class to get Data from OpenWeatherMap API
 
 
  -----
 
- ### Checklist
+## Checklist
 
  | No  |Class Name  |Progress   |
 | ------------ | ------------ | ------------ |
